@@ -1,0 +1,15 @@
+h1{
+    font-family: Digital-7 Mono;
+    font-size: xxx-large;
+    text-align: center;
+    color: white;
+}
+
+body{
+   background-image: url('background.jpg');
+}
+
+img{
+    border-radius: 30px;
+  }
+
