@@ -2,7 +2,7 @@ h1{
     font-family: Digital-7 Mono;
     font-size: xxx-large;
     text-align: center;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
 
 body{
@@ -13,7 +13,6 @@ img{
     border-radius: 30px;
     margin: auto;
     display: block;
-    width: 100%;
   }
 
   .button {
@@ -41,4 +40,5 @@ img{
   background-color: #9e4caf;
   color: white;
 }
+
 
