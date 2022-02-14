@@ -9,3 +9,7 @@ p{
    text-align: center;
    color: black;
 }
+
+body {
+    background-image: url('background_5.jpg');
+}
