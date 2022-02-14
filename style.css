@@ -27,6 +27,12 @@ img{
     margin: 4px 2px;
     transition-duration: 0.4s;
     cursor: pointer;
+    margin: 0;
+    position: absolute;
+    top: 200%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
   }
   
   .button1 {
@@ -40,4 +46,3 @@ img{
   background-color: #9e4caf;
   color: white;
 }
-
