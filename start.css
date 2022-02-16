@@ -4,6 +4,12 @@ h1{
   text-align: center;
 }
 
+h5{
+  font-family: verdana;
+  color: white;
+  text-align: center;
+}
+
 body{
   background-image: url('real.jpg');
 }
